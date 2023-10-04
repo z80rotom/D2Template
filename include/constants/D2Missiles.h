@@ -1,0 +1,6 @@
+#pragma once
+
+#define MISSILE_MAGIC_ARROW 27
+#define MISSILE_BOLT 31
+#define MISSILE_EXPLODING_ARROW 41
+#define MISSILE_PUS_BOLT 684
